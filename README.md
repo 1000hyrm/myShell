@@ -12,3 +12,5 @@ Linux Systemprogramming myShell program
 - 사용자가 myshell 상에서 "date"라고 입력하면, myShell 프로그램에서는 현재 디렉토리에 있는 .myshell파일에서 PATH를 읽어서 각 경로에 "date"라는 명령이 있는지 확인한다.
 - 명령이 있는 경우에 해당 프로그램을 실행한다.
 
+결과 화면
+![텀프로젝트_결과](https://user-images.githubusercontent.com/90028687/173495373-e0fee161-6d2b-4ccc-84c0-ef22c5fc4659.png)
